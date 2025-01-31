@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import HuzaifaKhan from "../../assets/Huzaifa_khan.jpg";
+import HuzaifaKhan from "../../assets/hassaan.jpg";
 import wordpress from "../../assets/wordpress.svg";
 import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
@@ -21,19 +21,16 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Muhammad Huzaifa Khan, a passionate Full Stack Developer with over four years of experience in designing and building dynamic, scalable, and efficient web and mobile applications. I specialize in using modern technologies to create seamless user experiences and high-performance applications.
-          </p>
+          Hi there! I'm Mohammad Hassaan Usmani, a passionate and aspiring Full-Stack Developer (Fresher) | B.Tech Final Year. With a strong foundation in modern web and mobile development technologies, I have built several projects that showcase my ability to create dynamic, scalable, and user-friendly applications. I specialize in technologies like React.js, Node.js, and MongoDB, and I’m eager to apply my skills in a professional setting. I am enthusiastic about problem-solving, clean code, and delivering high-performance applications that enhance user experiences.          </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-          My expertise spans a wide range of technologies, including PHP, Node.js, React.js, Next.js, Angular, TypeScript, React Native, and Python. I enjoy solving complex technical challenges and optimizing applications for better performance and scalability. Whether it's frontend development for a sleek UI/UX experience or backend architecture for robust server-side logic, I ensure every project is executed with precision and efficiency.
-          </p>
+          My expertise includes a wide range of modern technologies, such as PHP, Node.js, React.js, Next.js, Angular, TypeScript, React Native, and Python. As an aspiring Full-Stack Developer, I am passionate about solving complex technical challenges and optimizing applications for performance and scalability. Whether it’s crafting intuitive frontend interfaces for a seamless UI/UX experience or developing robust backend architectures, I strive to deliver efficient and high-quality solutions in every project I undertake.          </p>
 
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-          Beyond coding, I am always eager to learn and explore new tools and frameworks to enhance my development skills. I believe in writing clean, maintainable code and following industry best practices to deliver top-notch solutions. Let's connect and bring innovative ideas to life together!
-            </p>
+          Beyond coding, I am always eager to learn and explore new tools and frameworks to enhance my development skills. I am passionate about writing clean, maintainable code and adhering to industry best practices to build efficient and scalable solutions. I thrive on continuous learning and collaboration, and I’m excited to connect with like-minded professionals to bring innovative ideas to life!            </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>
@@ -93,7 +90,7 @@ export function About() {
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.20 * 1000}>
-          <img src={HuzaifaKhan} alt="Muhammad Huzaifa Khan" />
+          <img src={HuzaifaKhan} alt="Mohammad Hassaan Usmani" />
         </ScrollAnimation>
       </div>
     </Container>

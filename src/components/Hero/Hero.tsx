@@ -16,13 +16,13 @@ export function Hero() {
           <p>Hello <img src={Hello} alt="Hello" width="20px"/>, I'm</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.2 * 1000}>
-          <h1>Muhammad Huzaifa Khan</h1>
+          <h1>Mohammad Hassaan Usmani</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Full Stack Developer</h3>
+          <h3>Full-Stack Developer (Fresher) | B.Tech Final Year</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">4 Years of Experience</p>
+          <p className="small-resume">Fresher</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.8 * 1000}>
           <BrowserRouter>
@@ -45,14 +45,14 @@ export function Hero() {
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B917007174034&text=Hello+Huzaifa,+I+am+from+your+website&app_absent=0"
+          href="https://api.whatsapp.com/send/?phone=%2B919170086145&text=Hello+Huzaifa,+I+am+from+your+website&app_absent=0"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
-          href="https://t.me/+917007174034"
+          href="https://t.me/+919170086145"
           target="_blank"
           rel="noreferrer"
         >

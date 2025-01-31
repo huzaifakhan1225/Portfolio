@@ -9,7 +9,7 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://themuhammadhuzaifakhan.tech/" className="logo">
+      <a href="https://mohammadhassaanusmani.tech/" className="logo">
         {/* <span>www.themuhammadhuzaifa</span>
         <span>khan.tech</span> */}
         <span>Home</span>
@@ -36,14 +36,14 @@ export function Footer() {
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B917007174034&text=Hello+Huzaifa,+I+am+from+your+website&app_absent=0"
+          href="https://api.whatsapp.com/send/?phone=%2B919170086145&text=Hello+Huzaifa,+I+am+from+your+website&app_absent=0"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
-          href="https://t.me/+917007174034"
+          href="https://t.me/+919170086145"
           target="_blank"
           rel="noreferrer"
         >
